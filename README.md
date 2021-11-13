@@ -1,5 +1,5 @@
 # Off-Platform-Project_CreditCardChecker
-_Codecademy Luhn Algorithm
+_Codecademy Luhn Algorithm Array Validation
 
 Project Goals
 
